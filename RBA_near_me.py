@@ -1,6 +1,3 @@
-# pip3 install ebird-api
-# pip3 install streamlit
-# pip3 install streamlit_folium
 import streamlit as st
 import pandas as pd
 import folium
@@ -8,7 +5,6 @@ from datetime import date, timedelta
 from streamlit_folium import st_folium
 from ebird.api import get_nearby_notable
 api_key = "jfekjedvescr"
-# api_key_backup="q0dg01ercg4h"
 
 #Coordinates for map center and each data pull
 home = 37.369650, -76.757796
@@ -33,10 +29,9 @@ d_a['date_only'] = pd.to_datetime(d_a['obsDt']).dt.date
 def main():
     #Page label and headers
     st.set_page_config(app_title)
-    st.title('Rare Bird Alerts: Williamsburg, VA')
-    st.subheader('By: Michelle Gianvecchio')
+    st.header('Rare Bird Alerts: Williamsburg, VA')
+    st.text('By: Michelle G - September 9, 2023')
     st.text('')
-    #st.text('September 9, 2023')
 
     #User input options
     input_range = st.radio('Range', ['Home', 'Full Distance'])
