@@ -1,0 +1,232 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+2,7358,species,Tricolored Heron,Egretta tricolor,1,Grandview Nature Preserve,US-VA,10 Sep 2023,L718480,S149819213,,1
+4,5741,species,American Golden-Plover,Pluvialis dominica,1,Sandybottom Turf Farm,US-VA,06 Sep 2023,L3880015,S149163138,,1
+5,6032,species,Baird's Sandpiper,Calidris bairdii,1,Plum Tree Island NWR (restricted access),US-VA,02 Sep 2023,L9379841,S148826955,,1
+6,11781,species,Peregrine Falcon,Falco peregrinus,1,Riverside Turf Farm,US-VA,31 Aug 2023,L3878270,S148655302,,1
+7,5597,species,Limpkin,Aramus guarauna,1,Three Lakes Park & Nature Center,US-VA,24 Aug 2023,L634305,S148028955,,1
+9,5929,species,Upland Sandpiper,Bartramia longicauda,1,Riverside Turf Farm,US-VA,16 Aug 2023,L3878270,S147750273,,1
+10,700,species,Hooded Merganser,Lophodytes cucullatus,1,Jamestown Island--Causeway,US-VA,08 Aug 2023,L3565466,S146793426,,1
+12,6045,species,Western Sandpiper,Calidris mauri,1,Ditch Bank Road,US-VA,16 Jul 2023,L10027521,S144817376,,1
+13,11109,species,Red-cockaded Woodpecker,Dryobates borealis,2,Big Woods WMA--Woodpecker Trail,US-VA,07 Jul 2023,L23320005,S147385772,,1
+14,3604,species,Eastern Whip-poor-will,Antrostomus vociferus,1,"33358-33588 Chinquapin Road, Waverly, Virginia, US (36.986, -77.051)",US-VA,07 Jul 2023,L26604802,S147384940,,1
+15,7540,species,Roseate Spoonbill,Platalea ajaja,1,Hog Island WMA,US-VA,13 Jun 2023,L718515,S141486972,,1
+16,7223,species,American White Pelican,Pelecanus erythrorhynchos,11,Hog Island WMA,US-VA,13 Jun 2023,L718515,S141486972,,1
+17,965,species,Northern Bobwhite,Colinus virginianus,6,Hog Island WMA,US-VA,13 Jun 2023,L718515,S141486972,,1
+18,3584,species,Chuck-will's-widow,Antrostomus carolinensis,1,"606 Dogwood Road, Yorktown, Virginia, US (37.224, -76.556)",US-VA,09 Jun 2023,L25168294,S141455293,,1
+19,5696,species,Black-necked Stilt,Himantopus mexicanus,1,Back Bay NWR--C Pool,US-VA,09 Jun 2023,L465591,S141066670,,1
+20,477,species,American Wigeon,Mareca americana,1,Back Bay NWR--C Pool,US-VA,09 Jun 2023,L465591,S141066670,,1
+21,7271,species,Least Bittern,Ixobrychus exilis,2,**Back Bay NWR,US-VA,09 Jun 2023,L718307,S147385192,,1
+22,3206,species,Yellow-billed Cuckoo,Coccyzus americanus,1,My yard (private property),US-VA,03 Jun 2023,L11474010,S140310556,,1
+23,230,species,Black-bellied Whistling-Duck,Dendrocygna autumnalis,1,Lakeside Park,US-VA,29 May 2023,L9090621,S147385627,,1
+24,7075,species,Wood Stork,Mycteria americana,1,Red Wing Park,US-VA,29 May 2023,L689835,S147385640,,1
+25,7850,species,Mississippi Kite,Ictinia mississippiensis,1,Chartway Credit Union lake,US-VA,26 May 2023,L8656796,S147385368,,1
+26,6986,species,Sooty Shearwater,Ardenna grisea,16,Little Island Park,US-VA,26 May 2023,L718573,S139342293,,1
+27,6111,species,Red-necked Phalarope,Phalaropus lobatus,2,Back Bay NWR--Boardwalk,US-VA,26 May 2023,L2054871,S139343554,,1
+28,33643,species,Wilson's Warbler,Cardellina pusilla,1,**Back Bay NWR,US-VA,24 May 2023,L718307,S147385599,,1
+29,6007,species,Sanderling,Calidris alba,209,**Back Bay NWR,US-VA,24 May 2023,L718307,S147385599,,1
+30,5985,species,Red Knot,Calidris canutus,14,**Back Bay NWR,US-VA,24 May 2023,L718307,S147385599,,1
+31,5187,species,King Rail,Rallus elegans,2,**Back Bay NWR,US-VA,24 May 2023,L718307,S147385599,,1
+32,7444,species,Yellow-crowned Night-Heron,Nyctanassa violacea,1,Thomas Jefferson Rollins Nature Area,US-VA,19 May 2023,L2310674,S147385573,,1
+33,33401,species,Bay-breasted Warbler,Setophaga castanea,1,York River State Park,US-VA,18 May 2023,L718829,S138326060,,1
+35,32557,species,Nelson's Sparrow,Ammospiza nelsoni,1,Thomas Jefferson Rollins Nature Area,US-VA,15 May 2023,L2310674,S147385552,,1
+36,33446,species,Chestnut-sided Warbler,Setophaga pensylvanica,1,My yard (private property),US-VA,15 May 2023,L11474010,S147385464,,1
+37,6680,species,Black Skimmer,Rynchops niger,2,Fort Monroe,US-VA,14 May 2023,L604728,S147385536,,1
+38,6623,species,Common Tern,Sterna hirundo,3,Fort Monroe,US-VA,14 May 2023,L604728,S147385536,,1
+39,5976,species,Ruddy Turnstone,Arenaria interpres,1,Fort Monroe,US-VA,14 May 2023,L604728,S147385536,,1
+41,29256,species,Cedar Waxwing,Bombycilla cedrorum,40,"1205 Jamestown Road, Williamsburg, Virginia, US (37.254, -76.732)",US-VA,13 May 2023,L24322682,S137610431,,1
+42,33333,species,Kentucky Warbler,Geothlypis formosa,1,Jamestown Beach Event Park,US-VA,13 May 2023,L4665222,S137610731,,1
+43,33399,species,Magnolia Warbler,Setophaga magnolia,1,York River State Park,US-VA,08 May 2023,L718829,S147385481,,1
+44,33280,species,Blue-winged Warbler,Vermivora cyanoptera,1,York River State Park,US-VA,08 May 2023,L718829,S147385481,,1
+45,32887,species,Yellow-breasted Chat,Icteria virens,1,York River State Park,US-VA,08 May 2023,L718829,S147385481,,1
+46,27724,species,Gray-cheeked Thrush,Catharus minimus,1,York River State Park,US-VA,08 May 2023,L718829,S147385481,,1
+47,33287,species,Swainson's Warbler,Limnothlypis swainsonii,3,Dismal Swamp Canal Trail--Douglas Road Access,US-VA,06 May 2023,L17726656,S137170532,,1
+48,33923,species,Dickcissel,Spiza americana,1,Whedbee Carroll Lane,US-VA,06 May 2023,L14585082,S136410411,,1
+49,33276,species,Northern Waterthrush,Parkesia noveboracensis,1,Greensprings Interpretive Trail,US-VA,06 May 2023,L280466,S136393245,,1
+50,8624,species,Great Horned Owl,Bubo virginianus,1,"Humelsine Parkway, Williamsburg, Virginia, US (37.297, -76.747)",US-VA,06 May 2023,L24096483,S136394452,,1
+51,33448,species,Blackpoll Warbler,Setophaga striata,1,York River State Park,US-VA,05 May 2023,L718829,S136221659,,1
+52,26755,species,Marsh Wren,Cistothorus palustris,1,York River State Park,US-VA,05 May 2023,L718829,S136221659,,1
+53,16527,species,Acadian Flycatcher,Empidonax virescens,1,York River State Park,US-VA,05 May 2023,L718829,S136221659,,1
+54,16501,species,Eastern Wood-Pewee,Contopus virens,3,York River State Park,US-VA,05 May 2023,L718829,S136221659,,1
+55,7356,species,Little Blue Heron,Egretta caerulea,1,York River State Park,US-VA,05 May 2023,L718829,S136221659,,1
+56,33451,species,Black-throated Blue Warbler,Setophaga caerulescens,1,Greensprings Interpretive Trail,US-VA,04 May 2023,L280466,S136411668,,1
+57,33378,species,American Redstart,Setophaga ruticilla,1,Greensprings Interpretive Trail,US-VA,04 May 2023,L280466,S136411668,,1
+58,8214,species,Broad-winged Hawk,Buteo platypterus,1,Greensprings Interpretive Trail,US-VA,04 May 2023,L280466,S136411668,,1
+59,468,species,Gadwall,Mareca strepera,1,Greensprings Interpretive Trail,US-VA,04 May 2023,L280466,S136411668,,1
+60,32892,species,Bobolink,Dolichonyx oryzivorus,3,Mainland Farm/Drummond's Field,US-VA,04 May 2023,L2830270,S136051553,,1
+61,32268,species,Grasshopper Sparrow,Ammodramus savannarum,1,Mainland Farm/Drummond's Field,US-VA,04 May 2023,L2830270,S136051553,,1
+62,6040,species,Pectoral Sandpiper,Calidris melanotos,1,Mainland Farm/Drummond's Field,US-VA,03 May 2023,L2830270,S136411714,,1
+63,7474,species,White Ibis,Eudocimus albus,2,VA-ISS-16,US-VA,02 May 2023,L3095855,S137170586,,1
+64,7370,species,Cattle Egret,Bubulcus ibis,1,Muddy Creek/Shipps Cabin Fields (view from road only),US-VA,02 May 2023,L7787405,S135878507,,1
+65,6116,species,Spotted Sandpiper,Actitis macularius,1,Muddy Creek/Shipps Cabin Fields (view from road only),US-VA,02 May 2023,L7787405,S135878507,,1
+66,6043,species,Semipalmated Sandpiper,Calidris pusilla,8,Muddy Creek/Shipps Cabin Fields (view from road only),US-VA,02 May 2023,L7787405,S135878507,,1
+67,6036,species,White-rumped Sandpiper,Calidris fuscicollis,2,Muddy Creek/Shipps Cabin Fields (view from road only),US-VA,02 May 2023,L7787405,S135878507,,1
+68,6001,species,Stilt Sandpiper,Calidris himantopus,1,Muddy Creek/Shipps Cabin Fields (view from road only),US-VA,02 May 2023,L7787405,S135878507,,1
+69,5843,species,Semipalmated Plover,Charadrius semipalmatus,12,Muddy Creek/Shipps Cabin Fields (view from road only),US-VA,02 May 2023,L7787405,S135878507,,1
+70,5626,species,Sandhill Crane,Antigone canadensis,2,Muddy Creek/Shipps Cabin Fields (view from road only),US-VA,02 May 2023,L7787405,S135878507,,1
+71,27730,species,Swainson's Thrush,Catharus ustulatus,1,Tidewater Arboretum (Virginia Tech Display Gardens),US-VA,02 May 2023,L9397150,S137170606,,1
+72,6119,species,Solitary Sandpiper,Tringa solitaria,2,Tidewater Arboretum (Virginia Tech Display Gardens),US-VA,02 May 2023,L9397150,S137170606,,1
+73,32321,species,Clay-colored Sparrow,Spizella pallida,1,College Landing Park,US-VA,01 May 2023,L571218,S135938432,,1
+74,6035,species,Least Sandpiper,Calidris minutilla,3,Messick Point,US-VA,29 Apr 2023,L2153527,S137170614,,1
+75,33404,species,Yellow Warbler,Setophaga petechia,1,Thomas Jefferson Rollins Nature Area,US-VA,29 Apr 2023,L2310674,S135451564,,1
+76,32547,species,Seaside Sparrow,Ammospiza maritima,1,Thomas Jefferson Rollins Nature Area,US-VA,29 Apr 2023,L2310674,S135451564,,1
+77,5931,species,Whimbrel,Numenius phaeopus,2,Thomas Jefferson Rollins Nature Area,US-VA,29 Apr 2023,L2310674,S135451564,,1
+78,33853,species,Rose-breasted Grosbeak,Pheucticus ludovicianus,1,York River State Park,US-VA,26 Apr 2023,L718829,S135148816,,1
+79,33733,species,Scarlet Tanager,Piranga olivacea,1,York River State Park,US-VA,26 Apr 2023,L718829,S135148816,,1
+80,27719,species,Veery,Catharus fuscescens,1,York River State Park,US-VA,26 Apr 2023,L718829,S135148816,,1
+81,18752,species,Yellow-throated Vireo,Vireo flavifrons,1,York River State Park,US-VA,26 Apr 2023,L718829,S135148816,,1
+82,33904,species,Indigo Bunting,Passerina cyanea,1,Jamestown Beach Event Park,US-VA,25 Apr 2023,L4665222,S135148828,,1
+83,26614,species,House Wren,Troglodytes aedon,1,Jamestown Glasshouse,US-VA,25 Apr 2023,L10298734,S135148829,,1
+84,33286,species,Prothonotary Warbler,Protonotaria citrea,3,Powhatan Creek Park,US-VA,25 Apr 2023,L721872,S136411734,,1
+85,33273,species,Worm-eating Warbler,Helmitheros vermivorum,1,Powhatan Creek Park,US-VA,25 Apr 2023,L721872,S136411734,,1
+86,464,species,Northern Shoveler,Spatula clypeata,1,Messick Point,US-VA,24 Apr 2023,L2153527,S137170625,,1
+87,6569,species,Least Tern,Sternula antillarum,1,Thomas Jefferson Rollins Nature Area,US-VA,24 Apr 2023,L2310674,S137170644,,1
+88,23564,species,Bank Swallow,Riparia riparia,1,Lions Bridge,US-VA,24 Apr 2023,L9347571,S137170655,,1
+89,6368,species,Bonaparte's Gull,Chroicocephalus philadelphia,1,York River State Park,US-VA,23 Apr 2023,L718829,S136443310,,1
+90,33729,species,Summer Tanager,Piranga rubra,1,New Quarter Park,US-VA,22 Apr 2023,L286165,S135285454,,1
+91,27753,species,Wood Thrush,Hylocichla mustelina,1,My yard (private property),US-VA,21 Apr 2023,L11474010,S134444050,,1
+92,33377,species,Hooded Warbler,Setophaga citrina,1,My yard (private property),US-VA,20 Apr 2023,L11474010,S134377227,,1
+93,11697,species,American Kestrel,Falco sparverius,1,Colonial Parkway--College Creek,US-VA,20 Apr 2023,L654983,S134476084,,1
+94,33003,species,Orchard Oriole,Icterus spurius,1,Jamestown Island--Causeway,US-VA,19 Apr 2023,L3565466,S134324570,,1
+95,6598,species,Caspian Tern,Hydroprogne caspia,18,Jamestown Island--Causeway,US-VA,19 Apr 2023,L3565466,S134324570,,1
+97,33380,species,Cape May Warbler,Setophaga tigrina,1,"Colonial National Historical Parkway, Williamsburg, Virginia, US (37.211, -76.774)",US-VA,19 Apr 2023,L24096789,S136395998,,1
+98,33091,species,Baltimore Oriole,Icterus galbula,1,"Colonial National Historical Parkway, Williamsburg, Virginia, US (37.211, -76.774)",US-VA,19 Apr 2023,L24096789,S136395998,,1
+99,27413,species,Gray Catbird,Dumetella carolinensis,1,"Colonial National Historical Parkway, Williamsburg, Virginia, US (37.211, -76.774)",US-VA,19 Apr 2023,L24096789,S136395998,,1
+100,11731,species,Merlin,Falco columbarius,1,"Colonial National Historical Parkway, Williamsburg, Virginia, US (37.211, -76.774)",US-VA,19 Apr 2023,L24096789,S136395998,,1
+101,18758,species,Blue-headed Vireo,Vireo solitarius,1,My yard (private property),US-VA,17 Apr 2023,L11474010,S134088071,,1
+102,1207,species,Wild Turkey,Meleagris gallopavo,1,My yard (private property),US-VA,16 Apr 2023,L11474010,S136444306,,1
+103,33895,species,Blue Grosbeak,Passerina caerulea,1,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,1
+104,33490,species,Prairie Warbler,Setophaga discolor,1,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,1
+105,32639,species,Swamp Sparrow,Melospiza georgiana,4,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,1
+106,18795,species,Red-eyed Vireo,Vireo olivaceus,1,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,1
+107,17042,species,Eastern Kingbird,Tyrannus tyrannus,1,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,1
+108,16907,species,Great Crested Flycatcher,Myiarchus crinitus,2,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,1
+109,10834,species,Red-headed Woodpecker,Melanerpes erythrocephalus,2,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,1
+111,33519,species,Black-throated Green Warbler,Setophaga virens,1,My yard (private property),US-VA,13 Apr 2023,L11474010,S135651100,,1
+112,7130,species,Anhinga,Anhinga anhinga,1,Lions Bridge,US-VA,12 Apr 2023,L9347571,S133553712,,1
+113,8233,species,Red-tailed Hawk,Buteo jamaicensis,1,"10495 Virginia 3, Gloucester, Virginia, US (37.465, -76.447)",US-VA,12 Apr 2023,L23556176,S133554002,,1
+114,23509,species,Purple Martin,Progne subis,2,New Point Wharf,US-VA,12 Apr 2023,L718625,S133574360,,1
+115,33285,species,Black-and-white Warbler,Mniotilta varia,1,"3066 Bethel Beach Road, Onemo, Virginia, US (37.384, -76.29)",US-VA,12 Apr 2023,L23549185,S133517180,,1
+116,31662,species,Purple Finch,Haemorhous purpureus,1,"Bashi Shores Drive, Mathews, Virginia, US (37.413, -76.253)",US-VA,12 Apr 2023,L23559832,S133574391,,1
+117,26376,species,Brown-headed Nuthatch,Sitta pusilla,1,"Bashi Shores Drive, Mathews, Virginia, US (37.413, -76.253)",US-VA,12 Apr 2023,L23559832,S133574391,,1
+119,5737,species,Black-bellied Plover,Pluvialis squatarola,4,Bethel Beach Natural Area Preserve,US-VA,12 Apr 2023,L271098,S133574624,,1
+120,5725,species,American Oystercatcher,Haematopus palliatus,1,Bethel Beach Natural Area Preserve,US-VA,12 Apr 2023,L271098,S133574624,,1
+121,6130,species,Willet,Tringa semipalmata,1,Bethel Beach Natural Area Preserve,US-VA,12 Apr 2023,L271098,S133593993,,1
+122,5191,species,Clapper Rail,Rallus crepitans,2,Bethel Beach Natural Area Preserve,US-VA,12 Apr 2023,L271098,S133593993,,1
+123,33458,species,Palm Warbler,Setophaga palmarum,3,York River State Park,US-VA,11 Apr 2023,L718829,S133471838,,1
+124,18702,species,White-eyed Vireo,Vireo griseus,1,York River State Park,US-VA,11 Apr 2023,L718829,S133471838,,1
+125,7249,species,American Bittern,Botaurus lentiginosus,1,York River State Park,US-VA,11 Apr 2023,L718829,S133471838,,1
+126,724,species,Ruddy Duck,Oxyura jamaicensis,100,York River State Park,US-VA,11 Apr 2023,L718829,S133471838,,1
+127,649,species,Lesser Scaup,Aythya affinis,80,York River State Park,US-VA,11 Apr 2023,L718829,S133471838,,1
+128,4741,species,Ruby-throated Hummingbird,Archilochus colubris,1,My yard (private property),US-VA,11 Apr 2023,L11474010,S133433288,,1
+129,5418,species,American Coot,Fulica americana,2,Greensprings Interpretive Trail,US-VA,09 Apr 2023,L280466,S133264521,,1
+130,3845,species,Chimney Swift,Chaetura pelagica,1,Greensprings Interpretive Trail,US-VA,09 Apr 2023,L280466,S133264521,,1
+131,33469,species,Yellow-rumped Warbler,Setophaga coronata,5,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+132,33348,species,Common Yellowthroat,Geothlypis trichas,3,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+133,33172,species,Rusty Blackbird,Euphagus carolinus,20,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+134,33157,species,Brown-headed Cowbird,Molothrus ater,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+135,32634,species,Lincoln's Sparrow,Melospiza lincolnii,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+136,32449,species,Dark-eyed Junco,Junco hyemalis,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+137,23610,species,Barn Swallow,Hirundo rustica,4,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+138,23494,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+139,9939,species,Belted Kingfisher,Megaceryle alcyon,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+140,7384,species,Green Heron,Butorides virescens,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+141,563,species,Green-winged Teal,Anas crecca,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+142,450,species,Blue-winged Teal,Spatula discors,2,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+143,423,species,Wood Duck,Aix sponsa,1,Greensprings Interpretive Trail,US-VA,07 Apr 2023,L280466,S133021276,,1
+144,33101,species,Red-winged Blackbird,Agelaius phoeniceus,9,Mainland Farm/Drummond's Field,US-VA,07 Apr 2023,L2830270,S134477184,,1
+145,32569,species,Savannah Sparrow,Passerculus sandwichensis,2,Mainland Farm/Drummond's Field,US-VA,07 Apr 2023,L2830270,S134477184,,1
+146,32542,species,Vesper Sparrow,Pooecetes gramineus,1,Mainland Farm/Drummond's Field,US-VA,07 Apr 2023,L2830270,S134477184,,1
+147,20786,species,Blue Jay,Cyanocitta cristata,1,Mainland Farm/Drummond's Field,US-VA,07 Apr 2023,L2830270,S134477184,,1
+148,6086,species,Wilson's Snipe,Gallinago delicata,9,Mainland Farm/Drummond's Field,US-VA,07 Apr 2023,L2830270,S134477184,,1
+149,26270,species,Ruby-crowned Kinglet,Corthylio calendula,1,My yard (private property),US-VA,07 Apr 2023,L11474010,S132924863,,1
+150,6499,species,Great Black-backed Gull,Larus marinus,2,Messick Point,US-VA,06 Apr 2023,L2153527,S133021324,,1
+151,7352,species,Snowy Egret,Egretta thula,2,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,1
+152,6133,species,Lesser Yellowlegs,Tringa flavipes,80,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,1
+153,6110,species,Wilson's Phalarope,Phalaropus tricolor,1,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,1
+155,6054,species,Long-billed Dowitcher,Limnodromus scolopaceus,2,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,1
+156,6050,species,Short-billed Dowitcher,Limnodromus griseus,1,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,1
+157,6010,species,Dunlin,Calidris alpina,4,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,1
+158,527,species,American Black Duck,Anas rubripes,2,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,1
+159,33182,species,Boat-tailed Grackle,Quiscalus major,3,Thomas Jefferson Rollins Nature Area,US-VA,06 Apr 2023,L2310674,S133021461,,1
+160,7323,species,Great Egret,Ardea alba,1,Thomas Jefferson Rollins Nature Area,US-VA,06 Apr 2023,L2310674,S133021461,,1
+161,6660,species,Sandwich Tern,Thalasseus sandvicensis,6,Thomas Jefferson Rollins Nature Area,US-VA,06 Apr 2023,L2310674,S133021461,,1
+162,6126,species,Greater Yellowlegs,Tringa melanoleuca,1,Thomas Jefferson Rollins Nature Area,US-VA,06 Apr 2023,L2310674,S133021461,,1
+163,1824,species,Horned Grebe,Podiceps auritus,2,Thomas Jefferson Rollins Nature Area,US-VA,06 Apr 2023,L2310674,S133021461,,1
+164,689,species,Bufflehead,Bucephala albeola,12,Thomas Jefferson Rollins Nature Area,US-VA,06 Apr 2023,L2310674,S133021461,,1
+165,16583,species,Eastern Phoebe,Sayornis phoebe,1,Colonial Parkway--College Creek,US-VA,06 Apr 2023,L654983,S133386990,,1
+166,8031,species,Sharp-shinned Hawk,Accipiter striatus,1,Colonial Parkway--College Creek,US-VA,06 Apr 2023,L654983,S133386990,,1
+167,7873,species,Northern Harrier,Circus hudsonius,1,Colonial Parkway--College Creek,US-VA,06 Apr 2023,L654983,S133386990,,1
+168,7291,species,Great Blue Heron,Ardea herodias,2,Colonial Parkway--College Creek,US-VA,06 Apr 2023,L654983,S133386990,,1
+169,6469,species,Lesser Black-backed Gull,Larus fuscus,1,Colonial Parkway--College Creek,US-VA,06 Apr 2023,L654983,S133386990,,1
+170,32896,species,Eastern Meadowlark,Sturnella magna,1,Mainland Farm/Drummond's Field,US-VA,06 Apr 2023,L2830270,S133472686,,1
+171,32741,species,Eastern Towhee,Pipilo erythrophthalmus,1,Mainland Farm/Drummond's Field,US-VA,06 Apr 2023,L2830270,S133472686,,1
+172,32328,species,Field Sparrow,Spizella pusilla,1,Mainland Farm/Drummond's Field,US-VA,06 Apr 2023,L2830270,S133472686,,1
+173,27451,species,Brown Thrasher,Toxostoma rufum,2,Mainland Farm/Drummond's Field,US-VA,06 Apr 2023,L2830270,S133472686,,1
+174,22065,species,Horned Lark,Eremophila alpestris,1,Mainland Farm/Drummond's Field,US-VA,06 Apr 2023,L2830270,S133472686,,1
+175,8105,species,Bald Eagle,Haliaeetus leucocephalus,1,Mainland Farm/Drummond's Field,US-VA,06 Apr 2023,L2830270,S133472686,,1
+176,5866,species,Killdeer,Charadrius vociferus,6,Mainland Farm/Drummond's Field,US-VA,06 Apr 2023,L2830270,S133472686,,1
+177,6460,species,Iceland Gull,Larus glaucoides,1,"7499 River Road, Newport News, Virginia, US (37.013, -76.454)",US-VA,05 Apr 2023,L23408723,S132797621,,1
+178,33917,species,Painted Bunting,Passerina ciris,1,Chesapeake Arboretum,US-VA,05 Apr 2023,L619342,S132797726,,1
+179,6490,species,Glaucous Gull,Larus hyperboreus,1,"2 Fenwick Road, Hampton, Virginia, US (37, -76.312)",US-VA,05 Apr 2023,L23408732,S132797699,,1
+180,31648,species,House Finch,Haemorhous mexicanus,2,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,N,1
+181,30886,species,House Sparrow,Passer domesticus,3,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,N,1
+182,27969,species,American Robin,Turdus migratorius,1,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+183,27535,species,Eastern Bluebird,Sialia sialis,2,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+184,7479,species,Glossy Ibis,Plegadis falcinellus,7,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+185,7224,species,Brown Pelican,Pelecanus occidentalis,30,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+186,7188,species,Double-crested Cormorant,Nannopterum auritum,15,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+187,6720,species,Common Loon,Gavia immer,1,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+188,6654,species,Royal Tern,Thalasseus maximus,3,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+189,6643,species,Forster's Tern,Sterna forsteri,2,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+190,6440,species,Herring Gull,Larus argentatus,1,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+191,6427,species,Ring-billed Gull,Larus delawarensis,2,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+192,6396,species,Laughing Gull,Leucophaeus atricilla,4,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+193,716,species,Red-breasted Merganser,Mergus serrator,1,Fort Monroe,US-VA,05 Apr 2023,L604728,S133387029,,1
+194,1856,species,Rock Pigeon,Columba livia,5,"239 Rip Rap Road, Hampton, Virginia, US (37.035, -76.352)",US-VA,05 Apr 2023,L23408738,S132797753,N,1
+195,33177,species,Common Grackle,Quiscalus quiscula,1,"1 Towne Centre Way, Hampton, Virginia, US (37.062, -76.422)",US-VA,05 Apr 2023,L23408748,S132797792,,1
+196,33383,species,Northern Parula,Setophaga americana,3,My yard (private property),US-VA,05 Apr 2023,L11474010,S132766060,,1
+197,319,species,Canada Goose,Branta canadensis,2,My yard (private property),US-VA,04 Apr 2023,L11474010,S132725333,,1
+198,33269,species,Ovenbird,Seiurus aurocapilla,1,My yard (private property),US-VA,04 Apr 2023,L11474010,S132676295,,1
+199,8930,species,Barred Owl,Strix varia,1,My yard (private property),US-VA,03 Apr 2023,L11474010,S132676363,,1
+200,11435,species,Pileated Woodpecker,Dryocopus pileatus,1,My yard (private property),US-VA,03 Apr 2023,L11474010,S132631382,,1
+201,505,species,Mallard,Anas platyrhynchos,1,My yard (private property),US-VA,03 Apr 2023,L11474010,S132623777,,1
+202,23533,species,Tree Swallow,Tachycineta bicolor,1,"135 Monticello Avenue, Williamsburg, Virginia, US (37.282, -76.721)",US-VA,03 Apr 2023,L23371951,S132602670,,1
+203,21068,species,Fish Crow,Corvus ossifragus,1,"Virginia, US (37.276, -76.748)",US-VA,03 Apr 2023,L23371959,S132602715,,1
+204,7565,species,Osprey,Pandion haliaetus,1,"Virginia, US (37.276, -76.748)",US-VA,03 Apr 2023,L23371959,S132602715,,1
+205,32601,species,Song Sparrow,Melospiza melodia,1,"4015 Ironbound Road, Williamsburg, Virginia, US (37.275, -76.75)",US-VA,03 Apr 2023,L23371968,S132602763,,1
+206,32315,species,Chipping Sparrow,Spizella passerina,1,"4015 Ironbound Road, Williamsburg, Virginia, US (37.275, -76.75)",US-VA,03 Apr 2023,L23371968,S132602763,,1
+207,27525,species,Northern Mockingbird,Mimus polyglottos,1,"4015 Ironbound Road, Williamsburg, Virginia, US (37.275, -76.75)",US-VA,03 Apr 2023,L23371968,S132602763,,1
+208,27232,species,European Starling,Sturnus vulgaris,1,"4015 Ironbound Road, Williamsburg, Virginia, US (37.275, -76.75)",US-VA,03 Apr 2023,L23371968,S132602763,N,1
+209,8044,species,Cooper's Hawk,Accipiter cooperii,1,"6356 Glen Wilton Lane, Williamsburg, Virginia, US (37.329, -76.756)",US-VA,03 Apr 2023,L23371974,S132602787,,1
+210,11110,species,Hairy Woodpecker,Dryobates villosus,1,My yard (private property),US-VA,02 Apr 2023,L11474010,S132512730,,1
+211,8205,species,Red-shouldered Hawk,Buteo lineatus,1,My yard (private property),US-VA,02 Apr 2023,L11474010,S132500955,,1
+212,11572,species,Northern Flicker,Colaptes auratus,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132393941,,1
+213,26546,species,Blue-gray Gnatcatcher,Polioptila caerulea,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132376776,,1
+214,26353,species,Red-breasted Nuthatch,Sitta canadensis,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132365629,,1
+215,31953,species,American Goldfinch,Spinus tristis,2,My yard (private property),US-VA,01 Apr 2023,L11474010,S132361167,,1
+216,27739,species,Hermit Thrush,Catharus guttatus,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132361167,,1
+217,11083,species,Downy Woodpecker,Dryobates pubescens,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132361167,,1
+218,33811,species,Northern Cardinal,Cardinalis cardinalis,2,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+219,33478,species,Yellow-throated Warbler,Setophaga dominica,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+220,33463,species,Pine Warbler,Setophaga pinus,2,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+221,33275,species,Louisiana Waterthrush,Parkesia motacilla,2,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+222,32526,species,White-throated Sparrow,Zonotrichia albicollis,4,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+223,26774,species,Carolina Wren,Thryothorus ludovicianus,2,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+224,26356,species,White-breasted Nuthatch,Sitta carolinensis,2,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+225,21657,species,Tufted Titmouse,Baeolophus bicolor,5,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+226,21558,species,Carolina Chickadee,Poecile carolinensis,3,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+227,21054,species,American Crow,Corvus brachyrhynchos,2,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+228,10887,species,Red-bellied Woodpecker,Melanerpes carolinus,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+229,7550,species,Turkey Vulture,Cathartes aura,4,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+230,7546,species,Black Vulture,Coragyps atratus,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+231,2405,species,Mourning Dove,Zenaida macroura,1,My yard (private property),US-VA,01 Apr 2023,L11474010,S132391498,,1
+11,415,species,Muscovy Duck,Cairina moschata,1,"1460 Jameson Drive, Virginia Beach, Virginia, US (36.792, -76.163)",US-VA,19 Jul 2023,L26604760,S147384810,X,0
+1,17069,spuh,new world flycatcher sp.,Tyrannidae sp.,1,York River State Park,US-VA,13 Sep 2023,L718829,S149818986,,0
+3,7561,spuh,new world vulture sp.,Cathartidae sp.,2,Greensprings Interpretive Trail,US-VA,09 Sep 2023,L280466,S149819436,,0
+8,23771,spuh,swallow sp.,Hirundinidae sp.,50,Riverside Turf Farm,US-VA,16 Aug 2023,L3878270,S147750273,,0
+34,8300,spuh,hawk sp.,Accipitridae sp. (hawk sp.),1,Ditch Bank Road,US-VA,17 May 2023,L10027521,S138201887,,0
+40,6047,spuh,peep sp.,Calidris sp. (peep sp.),1,Grandview Nature Preserve,US-VA,14 May 2023,L718480,S147385530,,0
+96,6134,slash,Greater/Lesser Yellowlegs,Tringa melanoleuca/flavipes,1,Jamestown Island--Causeway,US-VA,19 Apr 2023,L3565466,S134324570,,0
+110,6679,spuh,tern sp.,Sterninae sp.,6,Newport News Park,US-VA,15 Apr 2023,L718631,S133859786,,0
+118,6264,spuh,shorebird sp.,Charadriiformes sp.,500,Bethel Beach Natural Area Preserve,US-VA,12 Apr 2023,L271098,S133574624,,0
+154,6055,slash,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,14,Messick Point,US-VA,06 Apr 2023,L2153527,S138322665,,0
