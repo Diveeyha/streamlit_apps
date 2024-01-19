@@ -59,7 +59,7 @@ def date_filter(df, input_days):
     return df.loc[df['date_only'] >= day_diff]
 
 
-@st.cache_resource
+#@st.cache_resource
 def map_call(on, d_m_filtered, d_a_filtered):
     # If smaller radius map, else larger map
     # figure = folium.Figure(width="100%", height="50%")
